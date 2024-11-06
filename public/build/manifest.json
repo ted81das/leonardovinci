@@ -1,0 +1,73 @@
+{
+  "public/themes/classic/img/files/waves.png": {
+    "file": "assets/waves-B9y7BHj0.png",
+    "src": "public/themes/classic/img/files/waves.png"
+  },
+  "public/themes/default/img/files/bg.webp": {
+    "file": "assets/bg-CIFYnVT3.webp",
+    "src": "public/themes/default/img/files/bg.webp"
+  },
+  "public/themes/default/img/files/wave-line.png": {
+    "file": "assets/wave-line-CIEgBAnf.png",
+    "src": "public/themes/default/img/files/wave-line.png"
+  },
+  "public/themes/default/img/files/waves.png": {
+    "file": "assets/waves-BGPnxgJW.png",
+    "src": "public/themes/default/img/files/waves.png"
+  },
+  "public/themes/default/img/files/world.png": {
+    "file": "assets/world-CMNy-fNt.png",
+    "src": "public/themes/default/img/files/world.png"
+  },
+  "public/themes/default/img/frontend/backgrounds/pattern.svg": {
+    "file": "assets/pattern-LgbXdP9a.svg",
+    "src": "public/themes/default/img/frontend/backgrounds/pattern.svg"
+  },
+  "public/themes/default/img/svgs/faq.svg": {
+    "file": "assets/faq-BGB8oGol.svg",
+    "src": "public/themes/default/img/svgs/faq.svg"
+  },
+  "public/themes/modern/img/files/hero-pattern-dots.svg": {
+    "file": "assets/hero-pattern-dots-B1vFRipD.svg",
+    "src": "public/themes/modern/img/files/hero-pattern-dots.svg"
+  },
+  "public/themes/modern/img/files/p-bg.svg": {
+    "file": "assets/p-bg-DV7PZ09g.svg",
+    "src": "public/themes/modern/img/files/p-bg.svg"
+  },
+  "resources/views/classic/scss/dashboard.scss": {
+    "file": "assets/dashboard-8c4Ph4gl.css",
+    "src": "resources/views/classic/scss/dashboard.scss",
+    "isEntry": true
+  },
+  "resources/views/default/scss/dashboard.scss": {
+    "file": "assets/dashboard-BS9KYIWV.css",
+    "src": "resources/views/default/scss/dashboard.scss",
+    "isEntry": true
+  },
+  "resources/views/default/scss/frontend.scss": {
+    "file": "assets/frontend-Cijmy-jr.css",
+    "src": "resources/views/default/scss/frontend.scss",
+    "isEntry": true
+  },
+  "resources/views/modern/scss/dashboard.scss": {
+    "file": "assets/dashboard-6IgPTbOO.css",
+    "src": "resources/views/modern/scss/dashboard.scss",
+    "isEntry": true
+  },
+  "resources/views/modern/scss/frontend.scss": {
+    "file": "assets/frontend-DzC-ObDK.css",
+    "src": "resources/views/modern/scss/frontend.scss",
+    "isEntry": true
+  },
+  "resources/views/sonic/scss/dashboard.scss": {
+    "file": "assets/dashboard-CCeyJQu4.css",
+    "src": "resources/views/sonic/scss/dashboard.scss",
+    "isEntry": true
+  },
+  "resources/views/sonic/scss/frontend.scss": {
+    "file": "assets/frontend-BXI7IHOj.css",
+    "src": "resources/views/sonic/scss/frontend.scss",
+    "isEntry": true
+  }
+}
